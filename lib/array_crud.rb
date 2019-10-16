@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 add_element_to_end_of_array = ["Germany","France","England","Italy"]
-add_element_to_end_of_array.push = ["Belgium"]
+add_element_to_end_of_array.unshift= ["Belgium"]
 end
 
 def add_element_to_start_of_array(array, element)
