@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-add_element_to_end_of_array = ["Germany","France","England","Italy"]
-add_element_to_end_of_array.unshift= "belgium"
+add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
+add_element_to_end_of_array.unshift= "arrays"
 
 endshift[element]
 end
